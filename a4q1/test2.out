@@ -1,0 +1,20 @@
+Library:
+	(S01, "Welcome to New York", "1989", "Taylor Swift", 120, "Pop")
+	(S06, "I Wish You Would", "1989", "Taylor Swift", 143, "Pop")
+	(S12, "I Know Places", "1989", "Taylor Swift", 133, "pop")
+	(S15, "New Romantics", "1989", "Taylor Swift", 123, "pop")
+	(TV01, "This is gonna be hard" S01E12 "Love Victor", 1124)
+	(TV02, "No Title Availble for this" S12E42 "Saturday Night Live", 899)
+Playlist[0]:
+Total: 0 seconds
+Playlist[0]:
+	000: (S01, "Welcome to New York", "1989", "Taylor Swift", 120, "Pop")
+	001: (TV02, "No Title Availble for this" S12E42 "Saturday Night Live", 899)
+Total: 1019 seconds
+Playlist[1]:
+	000: (S15, "New Romantics", "1989", "Taylor Swift", 123, "pop")
+	001: (S12, "I Know Places", "1989", "Taylor Swift", 133, "pop")
+Total: 256 seconds
+(S01, "Welcome to New York", "1989", "Taylor Swift", 120, "Pop") 120/1019
+(S01, "Welcome to New York", "1989", "Taylor Swift", 120, "Pop") 120/1019
+(TV02, "No Title Availble for this" S12E42 "Saturday Night Live", 899) 1019/1019

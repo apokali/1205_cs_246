@@ -1,0 +1,11 @@
+i lib02.txt
+p m
+f m S01
+f m S1
+p p 0
+a p 0 S01
+a p 0 TV02
+a p 1 S15
+a p 1 S12
+p p 0
+p p 1

@@ -1,0 +1,31 @@
+Library:
+	(S01, "Welcome to New York", "1989", "Taylor Swift", 120, "Pop")
+	(S06, "I Wish You Would", "1989", "Taylor Swift", 143, "Pop")
+	(S12, "I Know Places", "1989", "Taylor Swift", 133, "pop")
+	(S15, "New Romantics", "1989", "Taylor Swift", 123, "pop")
+	(TV01, "This is gonna be hard" S01E12 "Love Victor", 1124)
+	(TV02, "No Title Availble for this" S12E42 "Saturday Night Live", 899)
+Library:
+	(S01, "Welcome to New York", "1989", "Taylor Swift", 120, "Pop")
+	(S03, "Style", "1989", "Taylor Swift", 100, "Pop")
+	(S06, "I Wish You Would", "1989", "Taylor Swift", 143, "Pop")
+	(S12, "I Know Places", "1989", "Taylor Swift", 133, "pop")
+	(S15, "New Romantics", "1989", "Taylor Swift", 123, "pop")
+	(TV01, "This is gonna be hard" S01E12 "Love Victor", 1124)
+	(TV02, "No Title Availble for this" S12E42 "Saturday Night Live", 899)
+	(TV04, "I LOVE this beautiful moment" S01E01 "Killing Eve", 1222)
+Playlist[0]:
+	000: (S01, "Welcome to New York", "1989", "Taylor Swift", 120, "Pop")
+	001: (S06, "I Wish You Would", "1989", "Taylor Swift", 143, "Pop")
+	002: (S15, "New Romantics", "1989", "Taylor Swift", 123, "pop")
+	003: (S12, "I Know Places", "1989", "Taylor Swift", 133, "pop")
+	004: (TV04, "I LOVE this beautiful moment" S01E01 "Killing Eve", 1222)
+Total: 1741 seconds
+(S01, "Welcome to New York", "1989", "Taylor Swift", 120, "Pop") 120/1741
+(S06, "I Wish You Would", "1989", "Taylor Swift", 143, "Pop") 263/1741
+(S15, "New Romantics", "1989", "Taylor Swift", 123, "pop") 386/1741
+(S01, "Welcome to New York", "1989", "Taylor Swift", 120, "Pop") 120/1741
+(S06, "I Wish You Would", "1989", "Taylor Swift", 143, "Pop") 263/1741
+(S15, "New Romantics", "1989", "Taylor Swift", 123, "pop") 386/1741
+(S12, "I Know Places", "1989", "Taylor Swift", 133, "pop") 519/1741
+(TV04, "I LOVE this beautiful moment" S01E01 "Killing Eve", 1222) 1741/1741
