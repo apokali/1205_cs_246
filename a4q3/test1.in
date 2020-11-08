@@ -1,0 +1,8 @@
+new 3
+init
+1 1
+1 2
+-1 -1
+print
+step
+print

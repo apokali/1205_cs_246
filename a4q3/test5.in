@@ -1,0 +1,16 @@
+new 8
+init 
+3 3
+3 4
+4 5
+5 4
+5 3
+4 2
+-1 -1
+print
+step
+print
+step
+print
+steps 10
+print
