@@ -1,0 +1,4 @@
+mytest2.txt count o allcaps doublewords
+mytest2.txt count o allcaps doublewords dropfirst 3
+mytest2.txt count o allcaps doublewords 
+mytest2.txt count o allcaps doublewords dropfirst 3
